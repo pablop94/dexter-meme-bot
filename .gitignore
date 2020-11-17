@@ -1,0 +1,8 @@
+bot/
+*.png
+*.jpg
+*.gif
+__pycache__/
+.env
+
+!base.png
